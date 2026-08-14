@@ -1,9 +1,9 @@
 # Yet Another Minecraft Image Placing Addon
-[![Tests](https://github.com/josemmo/yamipa/workflows/Tests/badge.svg)](https://github.com/josemmo/yamipa/actions)
-[![Latest Version](https://img.shields.io/github/v/release/josemmo/yamipa)](https://github.com/josemmo/yamipa/releases/latest)
+[![Tests](https://github.com/MCCitiesClone/yamipa/workflows/Tests/badge.svg)](https://github.com/josemmo/yamipa/actions)
+[![Latest Version](https://img.shields.io/github/v/release/MCCitiesClone/yamipa)](https://github.com/josemmo/yamipa/releases/latest)
 ![Minecraft Version](https://img.shields.io/badge/minecraft-%3E%3D1.16-blueviolet)
 [![bStats Servers](https://img.shields.io/bstats/servers/10243)](https://bstats.org/plugin/bukkit/Yamipa/10243)
-[![License](https://img.shields.io/github/license/josemmo/yamipa)](LICENSE)
+[![License](https://img.shields.io/github/license/MCCitiesClone/yamipa)](LICENSE)
 
 Yamipa is a Spigot plugin that allows players to place images (even **animated**!) on any surface in your Minecraft server
 without having to install any local client mod.
