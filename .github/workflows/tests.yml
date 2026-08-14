@@ -12,15 +12,7 @@ jobs:
       matrix:
         flavor: ['paper']
         version: ['1.21.11', '1.21.8']
-        exclude:
-          - flavor: folia
-            version: 1.16.5
-          - flavor: folia
-            version: 1.17.1
-          - flavor: folia
-            version: 1.18.2
-          - flavor: folia
-            version: 1.19.4
+
     steps:
       # Download code from repository
       - name: Checkout code
